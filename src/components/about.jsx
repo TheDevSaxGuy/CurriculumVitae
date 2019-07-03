@@ -1,6 +1,29 @@
 import React from 'react';
 
 const About =()=>(
-    <h1>Hola mundo cruel</h1>
+    <div className="About">
+        <div className="About-container">
+            <div className="About-avatar">
+                <figure>
+                    <img src="/" alt=""/>
+                </figure>
+            </div>
+            <div className="About-name">
+                <h2>Juan Antonio Ortiz</h2>
+            </div>
+            <div className="About-profession">
+                <p>Junior Developer</p>
+            </div>
+            <div className="About-desc">
+                <p>Soy desarrollador web y me encantan los gatos</p>
+            </div>
+            <div className="About-location">
+                <p>Lerdo, Durango, Mexico</p>
+            </div>
+            <div className ="About-social">
+                <p>Social</p>
+            </div>
+        </div>
+    </div>
 );
 export default About;
