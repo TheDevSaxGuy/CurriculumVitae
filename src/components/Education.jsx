@@ -5,7 +5,7 @@ const Education = ()=>(
         <div className="Education-container">
             <div className="Education-item">
                 <h3>Tec Lerdo</h3>
-                <p>Aprendi muchas cosas</p>
+                <p>Ing. en Sistemas Computacionales</p>
             </div>
         </div>
     </div>

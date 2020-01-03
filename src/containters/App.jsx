@@ -16,9 +16,9 @@ const App = () =>{
             </Sidebar>
             <Info>
                 <Education/>
-                    <Experiencie/>
-                    <Certificates />
-                    <Skills/>
+                <Experiencie/>
+                <Certificates />
+                <Skills/>
             </Info>
         </Main>
     );

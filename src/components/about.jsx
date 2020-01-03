@@ -12,10 +12,10 @@ const About =()=>(
                 <h2>Juan Antonio Ortiz</h2>
             </div>
             <div className="About-profession">
-                <p>Junior Developer</p>
+                <p> Developer Applications</p>
             </div>
             <div className="About-desc">
-                <p>Soy desarrollador web y me encantan los gatos</p>
+                <p>Soy desarrollador web, me encantan los gatos y amo aprender</p>
             </div>
             <div className="About-location">
                 <p>Lerdo, Durango, Mexico</p>
