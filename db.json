@@ -1,0 +1,99 @@
+{
+    "data": {
+      "avatar": "https://s3.amazonaws.com/chewiekie/img/photo.jpg",
+      "name": "Juan Antonio Ortiz",
+      "profession": "Developer Applications",
+      "bio": "A very Optimistic guy who loves to learn, read, play videogames and Saxophone. Always trying to do my best and keep constantly growing. ",
+      "address": "Torreon, Mexico",
+      "social": {
+        "0": {
+          "name": "facebook",
+          "url": "https://facebook.com/"
+        },
+        "1": {
+          "name": "twitter",
+          "url": "https://twitter.com/"
+        },
+        "2": {
+          "name": "github",
+          "url": "https://github.com/"
+        },
+        "3": {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/"
+        }
+      },
+      "experience": {
+        "0": {
+          "jobTitle": "System Tecnician",
+          "company": "Gaven POS",
+          "startDate": "June 2016",
+          "endDate": "January 2019",
+          "jobDescription": "Install and mantain Poin of Sale Software"
+        },
+        "1": {
+          "jobTitle": "Intern",
+          "company": "Tyson Mexico Trading Company",
+          "startDate": "June 2019",
+          "endDate": "October 2019",
+          "jobDescription": "React-Native, NodeJS, AWS, SnapLogic Development"
+        },
+        "2":{
+            "jobTitle": "Developer Application",
+          "company": "Tyson Mexico Trading Company",
+          "startDate": "October 2019",
+          "endDate": "Present 2019",
+          "jobDescription": "SAP support"
+        }
+        
+      },
+      "education": {
+        "0": {
+          "degree": "Computer Science Degree",
+          "institution": "Instituto Tecnologico Superior de Lerdo",
+          "startDate": "August 2015",
+          "endDate": "Dec 2019",
+          "description": "Knowing the basics of development, database, networks, operating systems and Math"
+        },
+        "1": {
+          "degree": "Space Engineering",
+          "institution": "Harvard",
+          "startDate": "Jan 2017",
+          "endDate": "Decenber 2015",
+          "description": "Meow in empty rooms. Find empty spot in cupboard and sleep all day check cat door for ambush 10 times before coming in for hack. "
+        }
+      },
+      "certificate": {
+        "0": {
+          "name": "FrontEnd Developer",
+          "institution": "Platzi",
+          "date": "Jan 2021",
+          "description": "Hack up furballs try to jump onto window and fall while scratching at wall. "
+        },
+        "1": {
+          "name": "Self Learning",
+          "institution": "Platzi, SoloLearn, Udemy, Youtube",
+          "date": "Jan 2021",
+          "description": "Scratch at the door then walk away wack the mini furry mouse"
+        }
+      },
+      "skills": {
+        "0": {
+          "name": "HTML5",
+          "percentage": "75%"
+        },
+        "1": {
+          "name": "CSS",
+          "percentage": "25%"
+        },
+        "2": {
+          "name": "JavaScript",
+          "percentage": "55%"
+        },
+        "3": {
+          "name": "React",
+          "percentage": "90%"
+        }
+      }
+    }
+  }
