@@ -42,7 +42,7 @@
             "jobTitle": "Developer Application",
           "company": "Tyson Mexico Trading Company",
           "startDate": "October 2019",
-          "endDate": "Present 2019",
+          "endDate": "Present 2020",
           "jobDescription": "SAP support"
         }
         
@@ -56,43 +56,51 @@
           "description": "Knowing the basics of development, database, networks, operating systems and Math"
         },
         "1": {
-          "degree": "Space Engineering",
-          "institution": "Harvard",
+          "degree": "Self Learning",
+          "institution": "Platzi, SoloLearn, Udemy, Youtube, Facebook Developer Circles",
           "startDate": "Jan 2017",
-          "endDate": "Decenber 2015",
-          "description": "Meow in empty rooms. Find empty spot in cupboard and sleep all day check cat door for ambush 10 times before coming in for hack. "
+          "endDate": "Present 2020",
+          "description": "Always looking for the trending technologies to use in personal projects."
         }
       },
       "certificate": {
         "0": {
-          "name": "FrontEnd Developer",
+          "name": "Basic Programing Course",
           "institution": "Platzi",
           "date": "Jan 2021",
           "description": "Hack up furballs try to jump onto window and fall while scratching at wall. "
         },
         "1": {
-          "name": "Self Learning",
-          "institution": "Platzi, SoloLearn, Udemy, Youtube",
-          "date": "Jan 2021",
-          "description": "Scratch at the door then walk away wack the mini furry mouse"
+          "name": "APTIS Level C",
+          "institution": "Brittish Council",
+          "date": "May 2019",
+          "description": "English certificate"
         }
       },
       "skills": {
         "0": {
           "name": "HTML5",
-          "percentage": "75%"
+          "percentage": "100%"
         },
         "1": {
           "name": "CSS",
-          "percentage": "25%"
+          "percentage": "100%"
         },
         "2": {
           "name": "JavaScript",
-          "percentage": "55%"
+          "percentage": "90%"
         },
         "3": {
           "name": "React",
-          "percentage": "90%"
+          "percentage": "20%"
+        },
+        "4":{
+          "name":"Python",
+          "percentage":"40%"
+        },
+        "5":{
+          "name":"C#",
+          "percentage":"60%"
         }
       }
     }
