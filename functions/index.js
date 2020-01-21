@@ -21,3 +21,4 @@ exports.api = functions.https.onRequest((req, res) => {
     });
   }
 });
+// INSERT IN DATABASE firebase database:set /me db.json  -P api-cv-2bf68

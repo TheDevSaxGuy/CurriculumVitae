@@ -1,5 +1,5 @@
 {
-    "data": {
+    
       "avatar": "https://s3.amazonaws.com/chewiekie/img/photo.jpg",
       "name": "Juan Antonio Ortiz",
       "profession": "Developer Applications",
@@ -103,5 +103,5 @@
           "percentage":"60%"
         }
       }
-    }
+    
   }
