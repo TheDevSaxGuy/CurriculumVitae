@@ -10,7 +10,7 @@ const Certificates = (props)=>(
                 <p>Date: <i>{cert.date}</i></p>
                 <h3>{cert.name}</h3>
                 <p>{cert.institution}</p>
-            <p>{cert.name}</p>
+            <p>{cert.description}</p>
             </div>
             ))
             }
