@@ -1,6 +1,6 @@
 {
     
-      "avatar": "https://s3.amazonaws.com/chewiekie/img/photo.jpg",
+      "avatar": "https://i.imgur.com/vbkE5HJ.jpg?1",
       "name": "Juan Antonio Ortiz",
       "profession": "Developer Applications",
       "bio": "A very Optimistic guy who loves to learn, read, play videogames and Saxophone. Always trying to do my best and keep constantly growing. ",
@@ -8,7 +8,7 @@
       "social": {
         "0": {
           "name": "facebook",
-          "url": "https://facebook.com/"
+          "url": "https://www.facebook.com/profile.php?id=100007548437936"
         },
         "1": {
           "name": "twitter",
@@ -16,11 +16,11 @@
         },
         "2": {
           "name": "github",
-          "url": "https://github.com/"
+          "url": "https://github.com/johnnysax97"
         },
         "3": {
           "name": "linkedin",
-          "url": "https://www.linkedin.com/"
+          "url": "https://www.linkedin.com/in/juan-antonio-ortiz-enriquez-7a6796178/"
         }
       },
       "experience": {

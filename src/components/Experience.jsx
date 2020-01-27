@@ -12,8 +12,6 @@ const Experience = (props)=>(
             </div>
             ))
         }
-
-
             {/*}
             <div className="Experience-item">
                 <h3>Gaven</h3>

@@ -2,8 +2,7 @@ import React from 'react';
 
 const Certificates = (props)=>(
     <div className="Certificates">
-        <div className="Certificates-container">
-            
+        <div className="Certificates-container">      
             {
             props.data.map((cert, index)=>(
             <div className="Certificates-item" key={"cert "+index}>
