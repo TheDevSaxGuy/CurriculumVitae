@@ -1,6 +1,6 @@
 {
     
-      "avatar": "https://i.imgur.com/vbkE5HJ.jpg?1",
+      "avatar": "https://i.imgur.com/fPxTa8D.png?1",
       "name": "Juan Antonio Ortiz",
       "profession": "Developer Applications",
       "bio": "A very Optimistic guy who loves to learn, code, read, play videogames and Saxophone. Always trying to do my best and keep constantly growing. ",
@@ -68,7 +68,7 @@
           "name": "Basic Programing Course",
           "institution": "Platzi",
           "date": "Jan 2021",
-          "description": "Hack up furballs try to jump onto window and fall while scratching at wall. "
+          "description": "Learned the basics of web programming "
         },
         "1": {
           "name": "APTIS Level C",
@@ -79,20 +79,20 @@
       },
       "skills": {
         "0": {
-          "name": "HTML5",
+          "name": "Web (HTML5 / CSS3)",
           "percentage": "100%"
         },
         "1": {
-          "name": "CSS",
+          "name": "JavaScript",
           "percentage": "100%"
         },
         "2": {
-          "name": "JavaScript",
-          "percentage": "90%"
+          "name": "React JS",
+          "percentage": "50%"
         },
         "3": {
-          "name": "MERN",
-          "percentage": "20%"
+          "name": "React Native",
+          "percentage": "40%"
         },
         "4":{
           "name":"Python",
@@ -101,7 +101,12 @@
         "5":{
           "name":"C#",
           "percentage":"60%"
+        },
+        "6":{
+          "name":"Node JS",
+          "percentage":" 50% "
         }
+
       }
     
   }

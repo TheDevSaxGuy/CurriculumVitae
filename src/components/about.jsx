@@ -17,7 +17,7 @@ const AboutH2 = styled.div`
 `;
 const AboutStyle = styled.div`
     text-align: center;
-    background: #bbe1fa;
+    !--background: #bbe1fa;
 
 `;
 const AboutAvatar = styled.div`
@@ -58,7 +58,7 @@ const About =({avatar, name, profession, bio, address, social})=>(
         <div className="About-container">
             <AboutAvatar>
                 <figure>
-                    <AboutImg src="https://i.imgur.com/vbkE5HJ.jpg?1"  alt={name}/>
+                    <AboutImg src={avatar}  alt={name}/>
                 </figure>
             </AboutAvatar>
             <AboutName>

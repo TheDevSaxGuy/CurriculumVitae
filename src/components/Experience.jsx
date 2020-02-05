@@ -1,14 +1,16 @@
 import React from 'react';
+import H2Styled from '../styled/H2Styled';
 
 const Experience = (props)=>(
     <div className="Experience">
         <div className="Experience-container">
+            <H2Styled name="Experience"/>
         {
             props.data.map((exp,index)=>(
             <div className="Experience-item" key={"Exp "+index}>
-                <h3>{exp.Company}</h3>
-            <p>Puesto: <b>{exp.jobTitle}</b></p>
-            <p>Duración: <b>{exp.startDate} - {exp.endDate}</b></p>                
+                <h3>{exp.company}</h3>
+            <p>Job Title: <b>{exp.jobTitle}</b></p>
+            <p>Duration: <i>{exp.startDate} - {exp.endDate}</i></p>                
             </div>
             ))
         }
