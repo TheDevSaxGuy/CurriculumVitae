@@ -8,8 +8,8 @@ const Certificates = (props)=>(
             {
             props.data.map((cert, index)=>(
             <div className="Certificates-item" key={"cert "+index}>
-                <p>Date: <i>{cert.date}</i></p>
                 <h3>{cert.name}</h3>
+                <p>Date: <i>{cert.date}</i></p>
                 <p>{cert.institution}</p>
             <p>{cert.description}</p>
             </div>
